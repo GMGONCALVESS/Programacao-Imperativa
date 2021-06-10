@@ -1,8 +1,8 @@
 //https://github.com/GMGONCALVESS/Programacao-Imperativa.git
 //Join, Pop, Push, Shift, Unshift
 
-listaDeCompras = ["Sabonete", "Detergente", "Açúcar", "Leite"];
-item = "Queijo";
+let listaDeCompras = ["Sabonete", "Detergente", "Açúcar", "Leite"];
+let item = "Queijo";
 
 console.log("O método join apresenta os dados do array, por padrão eles são separados por vírgula.")
 console.log(listaDeCompras.join() + "\n");
