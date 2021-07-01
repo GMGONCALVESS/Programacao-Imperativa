@@ -1,7 +1,7 @@
 # Programacao-Imperativa
 Digital House CTD - Programação Imperativa
 ```
-Aprendendo a mexer no GITHUB
+Entrega dos microdesafios assíncronos do PG
 ```
-## Testando escritas diferentes 
-# Aqui dentro do GITHUB
+### Aluno: Gabriel Mariano
+#### Professores: Sílvia Fiacador, Christopher Gonçalves
